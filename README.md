@@ -1,4 +1,4 @@
-<h1> Projeto Pokedéx 🔥🚀 </h1>
+<h1> CarJump 🔥🚗 </h1>
 <h2>Introdução</h2>
 <p> Projeto CarJump desenvolvido durante o curso Programador Lifestyle, ministrado pelos professores Márcio Assis & Jefferson <p>
 <h2>Tecnologias utilizadas</h2>
